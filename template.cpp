@@ -14,7 +14,7 @@ void output_vector(const T_vector &v, bool add_one = false, int start = -1, int 
 }
 
 void run_case() {
-
+	cout << "Hello world" << '\n';
 }  
 
 
